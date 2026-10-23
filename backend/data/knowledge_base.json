@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ay-2026-27-new-regime-slabs",
+    "title": "Income-tax slabs under the new regime for AY 2026-27 (FY 2025-26)",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Section 115BAC, Income-tax Act, 1961; AY 2026-27",
+    "checked": "2026-10-23",
+    "document_type": "tax_rates",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "For AY 2026-27 (previous year 2025-26), a resident individual below 60 years in the new tax regime under section 115BAC pays tax on total income at these rates: up to Rs 4,00,000 - nil; Rs 4,00,001 to Rs 8,00,000 - 5% of the amount above Rs 4,00,000; Rs 8,00,001 to Rs 12,00,000 - Rs 20,000 plus 10% above Rs 8,00,000; Rs 12,00,001 to Rs 16,00,000 - Rs 60,000 plus 15% above Rs 12,00,000; Rs 16,00,001 to Rs 20,00,000 - Rs 1,20,000 plus 20% above Rs 16,00,000; Rs 20,00,001 to Rs 24,00,000 - Rs 2,00,000 plus 25% above Rs 20,00,000; above Rs 24,00,000 - Rs 3,00,000 plus 30% above Rs 24,00,000. A salaried individual can reduce taxable salary by the standard deduction of up to Rs 75,000 or the net salary, whichever is lower. A resident individual with total income up to Rs 12,00,000 can claim a rebate of up to Rs 60,000 under section 87A, subject to the statutory conditions and exclusions for special-rate income. Health and education cess at 4% applies on income tax plus surcharge."
+  },
+  {
+    "id": "ay-2026-27-old-regime-slabs",
+    "title": "Income-tax slabs under the old regime for AY 2026-27 (FY 2025-26)",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Old tax regime; sections 2, 3 and 87A, Income-tax Act, 1961; AY 2026-27",
+    "checked": "2026-10-23",
+    "document_type": "tax_rates",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "For AY 2026-27, an individual below 60 years who opts for the old tax regime pays: up to Rs 2,50,000 - nil; Rs 2,50,001 to Rs 5,00,000 - 5% of the amount above Rs 2,50,000; Rs 5,00,001 to Rs 10,00,000 - Rs 12,500 plus 20% above Rs 5,00,000; above Rs 10,00,000 - Rs 1,12,500 plus 30% above Rs 10,00,000. For a resident individual aged 60 to 79, the basic exemption is Rs 3,00,000; for a resident individual aged 80 or more, it is Rs 5,00,000. A resident individual with total income up to Rs 5,00,000 can claim a rebate of up to Rs 12,500 under section 87A. Salaried taxpayers can claim a standard deduction of up to Rs 50,000. Old-regime taxpayers may claim eligible exemptions and Chapter VI-A deductions, and 4% health and education cess applies on tax plus surcharge."
+  },
+  {
+    "id": "ay-2026-27-senior-citizen-slabs",
+    "title": "Senior and super-senior citizen basic exemption limits for AY 2026-27",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Old tax regime; basic exemption limits for resident senior citizens; AY 2026-27",
+    "checked": "2026-10-23",
+    "document_type": "tax_rates",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "For AY 2026-27, under the old tax regime, a resident individual aged 60 years or more but less than 80 years has a basic exemption limit of Rs 3,00,000. Tax is nil up to Rs 3,00,000, 5% on Rs 3,00,001 to Rs 5,00,000, 20% on Rs 5,00,001 to Rs 10,00,000 (Rs 10,000 plus 20% above Rs 5,00,000), and 30% above Rs 10,00,000 (Rs 1,10,000 plus 30% above Rs 10,00,000). A resident individual aged 80 years or more has a basic exemption limit of Rs 5,00,000: nil up to Rs 5,00,000, 20% on Rs 5,00,001 to Rs 10,00,000, and 30% above Rs 10,00,000 (Rs 1,00,000 plus 30% above Rs 10,00,000). The new regime does not provide a higher exemption based on age and generally applies the same slabs for all individual ages. The section 87A rebate is up to Rs 12,500 in the old regime where total income does not exceed Rs 5,00,000, and up to Rs 60,000 in the new regime where total income does not exceed Rs 12,00,000."
+  },
+  {
+    "id": "new-vs-old-regime-choice",
+    "title": "New tax regime is the default; choosing the old regime",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/new-tax-vs-old-tax-regime-faqs",
+    "reference": "Section 115BAC, Income-tax Act, 1961; Form 10-IEA",
+    "checked": "2026-10-23",
+    "document_type": "tax_regime",
+    "tax_period": "AY 2024-25 onwards",
+    "text": "The new tax regime under section 115BAC is the default for eligible individuals, HUFs, AOPs (other than co-operative societies), BOIs and artificial juridical persons. An eligible taxpayer may opt out and be taxed under the old regime. Taxpayers without business or professional income may choose the regime every year in the income tax return filed by the due date under section 139(1). Taxpayers with business or professional income who want the old regime must file Form 10-IEA by that due date; opting back into the new regime is also done through Form 10-IEA and is subject to the statutory conditions. The choice can change the available deductions and the tax liability, so compare both regimes using the official calculator and the facts for the relevant year. Employees should intimate the intended regime to their employer; otherwise the employer deducts tax under the default new regime."
+  },
+  {
+    "id": "new-regime-allowed-deductions",
+    "title": "Deductions and exemptions available in the new tax regime",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Section 115BAC, Income-tax Act, 1961; AY 2026-27",
+    "checked": "2026-10-23",
+    "document_type": "deductions",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "Under the new regime for AY 2026-27, salaried individuals can claim the standard deduction of up to Rs 75,000, limited to net salary. The following are also available: employer contribution to the National Pension System under section 80CCD(2), generally up to 14% of salary for all employer categories; deduction for contributions to the Agniveer Corpus Fund under section 80CCH; and interest on a housing loan for a let-out property under section 24(b), without the old Rs 2,00,000 self-occupied limit, although a loss from house property cannot be set off against other heads in the new regime. Most other exemptions and Chapter VI-A deductions, including section 80C, 80D, 80TTA, HRA and LTA, are generally not available. The official portal's deduction page and the return utility should be checked for the exact year-specific list."
+  },
+  {
+    "id": "old-regime-deductions",
+    "title": "Common deductions available in the old tax regime",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Chapter VI-A and sections 24(b), 10(13A), Income-tax Act, 1961",
+    "checked": "2026-10-23",
+    "document_type": "deductions",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "In the old regime for AY 2026-27, common deductions include: section 80C, 80CCC and 80CCD(1), with a combined limit of Rs 1,50,000 for life insurance premium, provident fund, eligible tuition fees, principal repayment of a housing loan, National Savings Certificate and specified investments; an additional Rs 50,000 under section 80CCD(1B) for contributions to the National Pension System; section 80D health insurance premium, generally up to Rs 25,000 for self, spouse and dependent children and separately up to Rs 25,000 for parents, with the limit raised to Rs 50,000 where the insured person is a senior citizen; section 24(b) interest on a housing loan, up to Rs 2,00,000 for a self-occupied property; section 80E interest on an education loan; section 80TTA up to Rs 10,000 on savings-bank interest for non-senior citizens; section 80TTB up to Rs 50,000 for resident senior citizens; and eligible donations under section 80G. HRA and LTA exemptions are also available only in the old regime, subject to conditions."
+  },
+  {
+    "id": "surcharge-and-cess",
+    "title": "Surcharge, marginal relief and health and education cess",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Finance Act; sections 111A, 112 and 112A, Income-tax Act, 1961; AY 2026-27",
+    "checked": "2026-10-23",
+    "document_type": "tax_rates",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "For AY 2026-27, surcharge on income tax for individuals, HUFs, AOPs and BOIs is 10% where total income exceeds Rs 50 lakh, 15% above Rs 1 crore, 25% above Rs 2 crore and, in the old regime, 37% above Rs 5 crore. The new regime caps surcharge at 25%. Enhanced surcharge of 25% or 37% is not levied on income chargeable under sections 111A, 112 and 112A and on dividend income, so the surcharge on tax for those incomes is generally capped at 15%, except for specified incomes. Marginal relief prevents the tax plus surcharge from exceeding the tax on the threshold income by more than the income above that threshold. Health and education cess at 4% is charged on income tax plus surcharge. These rates must be read with the Finance Act and the nature of the income."
+  },
+  {
+    "id": "itr-forms-ay-2026-27",
+    "title": "Which ITR form applies for AY 2026-27",
+    "authority": "Income Tax Department e-Filing portal, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "ITR-1, ITR-2, ITR-3 and ITR-4; sections 44AD, 44ADA and 44AE, Income-tax Act, 1961",
+    "checked": "2026-10-23",
+    "document_type": "return_filing",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "For AY 2026-27, ITR-1 (Sahaj) is available to a resident individual (other than not ordinarily resident) with total income up to Rs 50 lakh from salary or pension, up to two house properties, other sources such as interest, family pension and dividend, agricultural income up to Rs 5,000, and long-term capital gains under section 112A up to Rs 1,25,000. ITR-1 cannot be used by a company director, a person with short-term capital gains, long-term gains under section 112A above Rs 1,25,000, unlisted equity shares, foreign assets or foreign income, signing authority in a foreign account, tax deducted under section 194N, deferred ESOP tax, or brought-forward losses. ITR-2 is for individuals and HUFs not eligible for ITR-1 and without business or professional income. ITR-3 is for business or professional income. ITR-4 (Sugam) is for eligible resident individuals, HUFs and firms using presumptive taxation under sections 44AD, 44ADA or 44AE."
+  },
+  {
+    "id": "advance-tax-schedule",
+    "title": "Advance tax threshold, instalments and interest",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/tax-payments-faq",
+    "reference": "Advance tax; sections 234B and 234C, Income-tax Act, 1961",
+    "checked": "2026-10-23",
+    "document_type": "tax_payment",
+    "tax_period": "AY 2026-27 and Tax Year 2026-27",
+    "text": "Advance tax is payable where the estimated tax liability for the year is Rs 10,000 or more. For a normal assessment year the instalments are: 15% by 15 June, 45% by 15 September, 75% by 15 December and 100% by 15 March. Taxpayers covered by presumptive taxation under section 44AD or 44ADA generally pay the whole advance tax by 15 March. A shortfall or delay can attract interest under sections 234B and 234C. The Income Tax Department states that the core obligation to pay tax through TDS, TCS, advance tax and self-assessment tax continues under the Income-tax Act, 2025, and the new Act preserves the existing payment framework. For Tax Year 2026-27, apply the new Act and the relevant Finance Act; for earlier years, apply the 1961 Act."
+  },
+  {
+    "id": "tds-transition-2026",
+    "title": "TDS and TCS transition from the 1961 Act to the 2025 Act",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/tds-compliance",
+    "reference": "Sections 392, 393 and 394, Income-tax Act, 2025",
+    "checked": "2026-10-23",
+    "document_type": "tds",
+    "tax_period": "FY 2025-26 and Tax Year 2026-27",
+    "text": "Under the transition to the Income-tax Act, 2025, TDS obligations are governed by the law applicable to the financial year in which the sum is paid or credited. A sum paid or credited on or before 31 March 2026 is governed by the Income-tax Act, 1961. A sum paid or credited on or after 1 April 2026 is governed by the corresponding withholding provisions of the Income-tax Act, 2025. Sections 192 to 194T of the 1961 Act are consolidated into section 392 for salary and section 393 for other payments in the 2025 Act, while TCS is dealt with in section 394. For transactions on or after 1 April 2026, the deductor or collector should quote the relevant table item of section 393 or 394, not the old section number. If credit or payment spans March and April 2026, the earlier event of credit or payment determines which Act applies."
+  },
+  {
+    "id": "act-2025-transition",
+    "title": "Income-tax Act, 2025: commencement and transition",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act-faq",
+    "reference": "Income-tax Act, 2025; repeal of the Income-tax Act, 1961",
+    "checked": "2026-10-23",
+    "document_type": "legislation",
+    "tax_period": "From 1 April 2026",
+    "text": "The Income-tax Act, 2025 replaced the Income-tax Act, 1961 with effect from 1 April 2026. The 1961 Act continues to govern tax years beginning before 1 April 2026, including returns for AY 2026-27 for the period governed by the old Act. The 2025 Act uses the concept of a tax year and contains 536 sections and 16 schedules. Advance tax and other compliance for Tax Year 2026-27 are governed by the 2025 Act. When answering a question, first identify the relevant tax year: do not apply a 2025 Act provision to an earlier year, or an old Act provision to Tax Year 2026-27, without checking the transition rules and the applicable Finance Act."
+  },
+  {
+    "id": "capital-gains-post-july-2024",
+    "title": "Capital-gains rates for transfers on or after 23 July 2024",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometaxindia.gov.in/w/tax-rates-and-computation",
+    "reference": "Sections 111A, 112 and 112A, Income-tax Act, 1961; Finance (No. 2) Act, 2024",
+    "checked": "2026-10-23",
+    "document_type": "capital_gains",
+    "tax_period": "AY 2025-26, AY 2026-27 and later",
+    "text": "For transfers on or after 23 July 2024, the main capital-gains rates relevant to AY 2026-27 are: short-term capital gains on listed equity shares and equity-oriented mutual funds on which securities transaction tax is paid are taxed at 20% under section 111A; long-term capital gains on such assets are taxed at 12.5% under section 112A on gains exceeding Rs 1,25,000, with no indexation. Other long-term capital gains are generally taxed at 12.5% without indexation. For land or building acquired before 23 July 2024, a resident individual or HUF may choose the lower of 12.5% without indexation or 20% with indexation, subject to conditions. The holding period is generally 12 months for listed securities and 24 months for other capital assets. Unlisted shares, immovable property and other assets can have different rules, so verify the section, the asset and the transfer date."
+  },
+  {
+    "id": "salary-standard-deduction-hra",
+    "title": "Salary: standard deduction and HRA exemption",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Sections 10(13A) and 16(ia), Income-tax Act, 1961; AY 2026-27",
+    "checked": "2026-10-23",
+    "document_type": "salary",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "Salary income is taxed under the head Salaries after eligible exemptions and deductions. For AY 2026-27 the standard deduction is up to Rs 75,000 under the new regime and up to Rs 50,000 under the old regime, limited to the net salary. HRA exemption under section 10(13A) is available only in the old regime and is the least of: (1) actual HRA received; (2) rent paid minus 10% of salary, where salary means basic salary plus dearness allowance forming part of retirement benefits; and (3) 50% of that salary where the accommodation is in Delhi, Mumbai, Kolkata or Chennai, or 40% elsewhere. Leave travel allowance, children's education allowance and most other salary exemptions are generally available only in the old regime. Reimbursements and allowances must satisfy the statutory conditions, and the employer's Form 16 and salary structure are the starting point."
+  },
+  {
+    "id": "residential-status-basics",
+    "title": "Residential status of an individual",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Section 6, Income-tax Act, 1961",
+    "checked": "2026-10-23",
+    "document_type": "residential_status",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "Residential status determines the scope of taxable income. An individual is resident in India for a tax year if present in India for 182 days or more, or for 60 days or more in that year and 365 days or more in the four preceding years. The 60-day condition is relaxed to 182 days for certain Indian citizens leaving India for employment or as crew, and for eligible visitors. A resident is not ordinarily resident if the 182-day test is not met and the person was non-resident in 9 of the 10 preceding years or present in India for 729 days or less in the 7 preceding years. A resident and ordinarily resident is generally taxed on global income; a non-resident is generally taxed on Indian-source income; a not ordinarily resident is taxed on Indian-source income and on foreign income from a business controlled in India or a profession set up in India. Double-taxation relief may apply under the applicable treaty."
+  },
+  {
+    "id": "presumptive-taxation-44ad-44ada",
+    "title": "Presumptive taxation for small business and professionals",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "reference": "Sections 44AD and 44ADA, Income-tax Act, 1961",
+    "checked": "2026-10-23",
+    "document_type": "business_income",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "Presumptive taxation simplifies business and professional income. Under section 44AD, an eligible resident individual, HUF or partnership firm (not an LLP) can declare business income at 8% of turnover, or 6% for receipts through prescribed digital modes, if turnover is up to Rs 2 crore; the threshold is Rs 3 crore where at least 95% of receipts are digital. Under section 44ADA, an eligible resident professional can declare 50% of gross receipts as income where gross receipts are up to Rs 50 lakh; the threshold is Rs 75 lakh where at least 95% of receipts are digital. The taxpayer must satisfy the statutory conditions, and opting out can affect eligibility in a later year. Presumptive taxpayers generally pay advance tax in one instalment by 15 March and may use ITR-4 where eligible."
+  },
+  {
+    "id": "return-due-dates-ay-2026-27",
+    "title": "Return-filing due dates and late-filing consequences for AY 2026-27",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/income-tax-returns-faq",
+    "reference": "Section 139(1), 139(4), 234A, 234B, 234C and 234F, Income-tax Act, 1961",
+    "checked": "2026-10-23",
+    "document_type": "return_filing",
+    "tax_period": "AY 2026-27 (FY 2025-26)",
+    "text": "For AY 2026-27, the statutory due date for filing a return of income for taxpayers not subject to audit is generally 31 July 2026 under section 139(1). Taxpayers subject to tax audit generally have until 31 October 2026, and taxpayers in transfer-pricing cases until 30 November 2026. A belated return can generally be filed up to 31 December of the assessment year, subject to the statute and any extension. Late filing can attract a fee under section 234F and interest under sections 234A, 234B and 234C. The CBDT may extend a due date by circular or notification, and where it does, the extended date applies. Confirm the current date for the relevant assessment year on the official e-filing portal before relying on a deadline."
+  }
+]

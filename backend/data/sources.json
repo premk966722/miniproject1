@@ -1,0 +1,56 @@
+[
+  {
+    "id": "new-act-transition",
+    "title": "Objective and scope of the Income-tax Act, 2025 — FAQs",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act-faq",
+    "reference": "Income-tax Act, 2025; transition from 1 April 2026",
+    "checked": "2026-10-22",
+    "text": "Effective 1 April 2026, the Income-tax Act, 1961 is repealed. Its provisions continue to govern tax years beginning before 1 April 2026. Returns for AY 2026-27 relating to the period governed by the old Act continue under the old Act, while advance tax for Tax Year 2026-27 is under the new Act. The new Act contains 536 sections and 16 schedules."
+  },
+  {
+    "id": "new-regime-2025",
+    "title": "FAQs on New Tax vs Old Tax Regime",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/new-tax-vs-old-tax-regime-faqs?mobile-app=1",
+    "reference": "Section 115BAC, Income-tax Act, 1961; AY 2024-25 onwards",
+    "checked": "2026-10-22",
+    "text": "The new tax regime is the default regime for eligible individuals, HUFs, AOPs (other than co-operative societies), BOIs and artificial juridical persons. Eligible taxpayers may opt out and choose the old tax regime. For taxpayers without business or professional income, the choice can be exercised each year in the income tax return. Taxpayers with business or professional income generally use Form 10-IEA to opt out, subject to statutory due-date requirements."
+  },
+  {
+    "id": "act-2025",
+    "title": "Income-tax Act, 2025 — official portal",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometaxindia.gov.in/en/income-tax-act-202511",
+    "reference": "Income-tax Act, 2025; Rules, 2026",
+    "checked": "2026-10-22",
+    "text": "The official Income Tax Department portal publishes the Income-tax Act, 2025, Income-tax Rules, 2026, forms, tax tutorials, reference tables and FAQs. Use the official Act, applicable Rules, Finance Act and notifications for the relevant tax year to confirm statutory requirements. The department also provides a utility to check provisions of the 1961 Act against the 2025 Act."
+  },
+  {
+    "id": "itr-faq",
+    "title": "Income Tax Returns FAQs",
+    "authority": "Income Tax Department e-Filing portal, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/income-tax-returns-faq",
+    "reference": "Income tax return e-Filing services",
+    "checked": "2026-10-22",
+    "text": "The Income Tax Department e-Filing portal provides official FAQs about e-Filing of income tax returns and forms, as well as return processing, intimation, rectification and refund services. Refer to the portal for current process steps and applicable forms."
+  },
+  {
+    "id": "tax-rates",
+    "title": "Tax Rates and Computation",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometaxindia.gov.in/w/tax-rates-and-computation",
+    "reference": "Income-tax Act, 1961; tax computation",
+    "checked": "2026-10-22",
+    "text": "The department's Tax Rates and Computation resource describes the statutory procedure for determining total income and tax liability under the Income-tax Act, 1961. Applicable rates can depend on the assessment year, taxpayer category, regime, surcharge and cess; consult the relevant Finance Act and official rate table for the year in question."
+  },
+  {
+    "id": "definitions",
+    "title": "Important definitions under the Income-tax Act, 1961",
+    "authority": "Income Tax Department, Government of India",
+    "url": "https://www.incometaxindia.gov.in/w/important-definitions-under-income-tax-act-1961",
+    "reference": "Income-tax Act, 1961; definitions",
+    "checked": "2026-10-22",
+    "text": "The Income Tax Department's definitions resource is an informational glossary intended to help taxpayers understand terminology in the Income-tax Act, 1961. The department advises users to verify the content against Acts, Rules and notifications because the glossary does not purport to be a legal document."
+  }
+]

@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/.pytest_cache/
+backend/.pytest_tmp/
+
+# Node and build output
+node_modules/
+dist/
+frontend/dist/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime data; keep the checked-in JSON knowledge catalogue and sources
+backend/data/*.sqlite3*
+backend/data/uploads/
+backend/data/index/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
